@@ -1,0 +1,10 @@
+README.md
+setup.py
+pyAOMlite.egg-info/PKG-INFO
+pyAOMlite.egg-info/SOURCES.txt
+pyAOMlite.egg-info/dependency_links.txt
+pyAOMlite.egg-info/top_level.txt
+src/anIres.c
+src/anIres_functions.c
+src/aom_overlap.c
+src/mulliken_functions.c
